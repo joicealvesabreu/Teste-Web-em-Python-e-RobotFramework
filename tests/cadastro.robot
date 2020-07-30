@@ -20,7 +20,7 @@ Email incorreto
 
 Email vazio
     Dado que acesso a página principal
-    Quando submeto no meu email "${EMPTY}"
+    Quando submeto no meu email "${EMPTY}"      #essa parte é uma entrada  "vazio"
     Entao devo ver a mensagem "Oops. Informe um email válido!"
 
 
